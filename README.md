@@ -60,4 +60,3 @@ Adicionado à página na seção “Cultive a memória”, com acesso pelo menu 
 O código está em `dist/jogo.js` e as imagens em `dist/assets/jogo`. Inclui embaralhamento, contagem de jogadas e pares, mensagem de vitória, reinício e controle por teclado. O reinício cancela a temporização da jogada anterior. Não requer internet, cadastro ou servidor adicional.
 
 Verificados no navegador: oito cartas, carregamento das quatro imagens, vitória em quatro jogadas, reinício durante uma tentativa incorreta, acionamento por Enter e ausência de rolagem horizontal em 390 px. Nenhum erro JavaScript observado nesses testes.
-

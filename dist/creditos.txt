@@ -1,0 +1,39 @@
+SMART CAMPO — CRÉDITOS E REFERÊNCIAS
+Projeto Integrado Técnico · FIEB · Barueri, 2026
+
+Conteúdo: briefing e relatório do projeto fornecidos pela equipe.
+Os valores comerciais e financeiros são projeções acadêmicas de 2026.
+A estimativa climática de 10% até 2050 é reproduzida como informação citada
+no estudo do projeto, sem validação independente da fonte primária.
+As empresas listadas fazem parte da análise de mercado, sem afirmação de parceria.
+Contato: endereço ilustrativo em domínio .example, sem atendimento.
+
+Logo: arquivo fornecido pela equipe Smart Campo.
+
+Fotografia de abertura: Alex Wigan / Unsplash
+https://unsplash.com/photos/green-grass-farm-_9BC1evoaps
+Fotografia de cultivo: Bernd Dittrich / Unsplash
+https://unsplash.com/photos/an-aerial-view-of-a-green-field-with-trees-fnZ-FXWxl2c
+Licença das fotografias: https://unsplash.com/license
+
+Vídeo e miniatura: vídeo demonstrativo indicado pela equipe
+https://www.youtube.com/watch?v=utJEiOUFqlc
+O conteúdo continua hospedado no YouTube. A miniatura é usada como acesso ao player.
+
+Referência de direção visual: Lusion — About
+https://lusion.co/about
+Referência de lógica de movimento: GSAP / GreenSock — ScrollTrigger Image Zoom
+https://codepen.io/GreenSock/pen/YzbPYMx
+Abertura adaptada: perspectiva, escala e profundidade na logo, revelando o hero.
+O zoom de imagem também acompanha o scroll. O código da página foi escrito
+para o Smart Campo; textos e recursos de marca da Lusion não foram copiados.
+
+Tipografia: Space Grotesk, Florian Karsten — SIL Open Font License.
+A licença completa acompanha os arquivos em assets/OFL-Space-Grotesk.txt.
+GSAP 3.13.0 e ScrollTrigger, distribuídos originalmente via jsDelivr.
+Arquivos originais com cabeçalho de licença preservado em assets/vendor/.
+https://gsap.com/standard-license/
+
+Jogo da memória: conteúdo e quatro imagens fornecidos pela equipe no arquivo
+jogo aura.rar. Integração visual, acessibilidade e correção de reinício aplicadas
+para uso na página Smart Campo.
